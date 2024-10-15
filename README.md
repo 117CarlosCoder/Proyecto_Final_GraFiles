@@ -44,7 +44,7 @@ Al clonar el repositorio anterior, ingresa dentro de la carpeta principal `/Proy
 	Esto creará un compose en Docker con el nombre `proyecto_final_grafiles`, el cual se ejecutará con el mismo comando. Si no hay ningún conflicto con la creación y ejecución del compose, podrás acceder a `localhost` en el puerto 8081.
 
 - **Deberías ver lo siguiente:**
-
+<img style = "width:500px" src"Pagina.png" />
 
 6. **Sexto Paso: Cargar información en la base de datos**
 Para poder iniciar sesión, necesitas cargar la información en la base de datos usando MongoDB. Ejecuta `mongosh` y conéctate usando este comando:
