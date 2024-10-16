@@ -120,7 +120,7 @@ db.directoryShared.insertMany([
   "user_id": 
     ObjectId( "670d5a9c8c28352cbf5d0924")
   ,
-  "user_share": "anyi@example.com",
+  "user_share": "daniel@example.com",
   "size": NumberLong ("4")
   ,
   "file_type": "application/octet-stream",
@@ -146,7 +146,7 @@ db.directoryShared.insertMany([
   "user_id": 
     ObjectId( "670d5ad68c28352cbf5d0925")
   ,
-  "user_share": "daniel@example.com",
+  "user_share": "anyi@example.com",
   "size": NumberLong ("6")
   ,
   "file_type": "application/octet-stream",
