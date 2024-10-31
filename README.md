@@ -1,7 +1,9 @@
 # Proyecto_Final_GraFiles
-
+## Video de la aplicació11n
+   Video del proyecto [https://www.awesomescreenshot.com/video/33147616?key=ebc6bfcf6eb6550d7de3e320d16fea71]
 # Instalación
-
+   Primero, instala Docker desde la página oficial: [https://www.docker.com/](https://www.docker.com/)
+   
 ## Instalación con Docker
 
 1. **Primer Paso: Instalar Docker**
